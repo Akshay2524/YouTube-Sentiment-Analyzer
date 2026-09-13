@@ -30,6 +30,13 @@ An AI-powered Streamlit application that analyzes YouTube viewer comments using 
 
 \- Uses Streamlit for an interactive web interface
 
+## Project Screenshots
+
+### Sentiment Dashboard
+![YouTube Sentiment Analyzer Dashboard](dashboard.png)
+
+### Comment Analysis
+![YouTube Comment Analysis](comments.png)
 
 
 \## Technologies Used
